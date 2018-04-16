@@ -1,7 +1,7 @@
 # sudoku_Gui
 Using python
 
-#python
+# python
 need:
--python2.7
--numpy
+-**python2.7**
+-**numpy**
